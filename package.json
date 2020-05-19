@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "@polkadot/api": "^1.9.1",
-    "@polkadot/util": "^2.7.1"
+    "@polkadot/api": "^1.14.1",
+    "@polkadot/util": "^2.10.1"
   }
 }
